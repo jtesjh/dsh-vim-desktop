@@ -1,0 +1,5 @@
+# dsh-vim-desktop 的启动图行。
+# 宿主半边只有一个空 apply，占住这一行，客户端半边走 dsh.client。
+- insert:
+    - id: dsh-vim-desktop
+      name: dsh-vim-desktop
