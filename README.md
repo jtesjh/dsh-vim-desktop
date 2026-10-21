@@ -7,7 +7,7 @@
 ## 安装
 
 ```sh
-dsh plugin --profile web add github:<你的用户名>/dsh-vim-desktop
+dsh plugin --profile web add github:jtesjh/dsh-vim-desktop
 ```
 
 装完重启 dsh-desktop。本包没有构建步骤，直接从 GitHub 装即可。
